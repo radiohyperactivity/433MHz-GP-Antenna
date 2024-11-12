@@ -66,4 +66,4 @@ The design uses 5 different 3D-printed parts. All of these are fully parametric.
 
 # Build Video
 
-[![](images/video.png)](https://www.youtube.com/)
+[![](images/video.png)](https://youtu.be/t25hWZlW5tE)
