@@ -32,6 +32,7 @@ The design uses 5 different 3D-printed parts. All of these are fully parametric.
 - 200mmx12mm Ø clue lined heat shrink tube (for attaching the choke)
 - 5 x Aluminium M4 rivet nut insert (like [these](https://www.ebay.com/itm/152075695177))
 - 3D printed parts described below
+- Beverage of your choice (Kronenbourg 1664 Blanc recommended)
 
 ## Top Insert
 
