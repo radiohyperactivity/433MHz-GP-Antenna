@@ -8,13 +8,14 @@ A LoRa APRS ground plane antenna you can build just two hours!
 Continuing my journey into LoRa APRS it was about time for my iGate / Digipeater to get it's own antenna. So far it's been connected to the X50 I normally use for 2m/70cm FM. After evaluating many potential designs, from a regular vertical dipole to a j-pole, I settled on the venerable ¼λ (quarter wavelength) ground plane antenna. For my use case, this has the perfect combination of a high gain and a high enough WAF (wife acceptance factor). The traditional design usually calls for 4 radials, pointing downward at a 45° (more strictly 42°) angle for the best match to a 50Ω coaxial cable. The dimensions given during the build turned out to be to long, and I ended up cutting 27mm of the radials and 5mm of the vertical element. Thus the finished project, that showed an SWR of less then 1:1.2 at 433.775MHz, was as follows:
 
 **Radiator:** 159mm
+
 **Radials:** 157mm
 
 ![](images/swr.jpg)
 
 The design uses 5 different 3D-printed parts. All of these are fully parametric. If you want to used different dimensions, just update the spreadsheet in the FreeCAD design file:
 
-[LoRa APRS Antenna.fcstd](LoRa APRS Antenna.fcstd)
+[LoRa APRS Antenna.fcstd](<LoRa APRS Antenna.fcstd>)
 
 ## Bill of materials
 
@@ -34,7 +35,7 @@ The design uses 5 different 3D-printed parts. All of these are fully parametric.
 
 ## Top Insert
 
-![](images/LoRa APRS Antenna-Top-Insert.png)
+![](<images/LoRa APRS Antenna-Top-Insert.png>)
 
 [LoRa APRS Antenna-Top-Insert.stl](LoRa APRS Antenna-Top-Insert.stl)
 
