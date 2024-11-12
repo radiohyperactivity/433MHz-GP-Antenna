@@ -37,31 +37,31 @@ The design uses 5 different 3D-printed parts. All of these are fully parametric.
 
 ![](<images/LoRa APRS Antenna-Top-Insert.png>)
 
-[LoRa APRS Antenna-Top-Insert.stl](LoRa APRS Antenna-Top-Insert.stl)
+[LoRa APRS Antenna-Top-Insert.stl](<LoRa APRS Antenna-Top-Insert.stl>)
 
 ## Top Cover
 
-![](images/LoRa APRS Antenna-Top-Cover.png)
+![](<images/LoRa APRS Antenna-Top-Cover.png>)
 
-[LoRa APRS Antenna-Top-Cover.stl](LoRa APRS Antenna-Top-Cover.stl)
+[LoRa APRS Antenna-Top-Cover.stl](<LoRa APRS Antenna-Top-Cover.stl>)
 
 ## Bottom Insert
 
-![](images/LoRa APRS Antenna-Bottom-Insert.png)
+![](<images/LoRa APRS Antenna-Bottom-Insert.png>)
 
-[LoRa APRS Antenna-Bottom-Insert.stl](LoRa APRS Antenna-Bottom-Insert.stl)
+[LoRa APRS Antenna-Bottom-Insert.stl](<LoRa APRS Antenna-Bottom-Insert.stl>)
 
 ## Drill Guide
 
-![](images/LoRa APRS Antenna-Drill-Guide.png)
+![](<images/LoRa APRS Antenna-Drill-Guide.png>)
 
-[LoRa APRS Antenna-Drill-Guide.stl](LoRa APRS Antenna-Drill-Guide.stl)
+[LoRa APRS Antenna-Drill-Guide.stl](<LoRa APRS Antenna-Drill-Guide.stl>)
 
 ## Element Plug
 
-![](images/LoRa APRS Antenna-Element-Plug.png)
+![](<images/LoRa APRS Antenna-Element-Plug.png>)
 
-[LoRa APRS Antenna-Element-Plug.stl](LoRa APRS Antenna-Element-Plug.stl)
+[LoRa APRS Antenna-Element-Plug.stl](<LoRa APRS Antenna-Element-Plug.stl>)
 
 # Build Video
 
