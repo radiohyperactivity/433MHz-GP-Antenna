@@ -34,10 +34,6 @@ The design uses 5 different 3D-printed parts. All of these are fully parametric.
 - 3D printed parts described below
 - Beverage of your choice (Kronenbourg 1664 Blanc recommended)
 
-## FreeCAD Source File (if you want to make changes)
-
-[Power-Pole-Volt-Meter.FCStd](<Power-Pole-Volt-Meter.FCStd>)
-
 ## Top Insert
 
 ![](<images/LoRa APRS Antenna-Top-Insert.png>)
